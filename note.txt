@@ -1,0 +1,19 @@
+1. Create Repo dari Terminal
+    - git init (Buat repo baru)
+    - git add . (Untuk add semua item)
+    - git commit -m "Initial Commit" (Untuk buat commit message dan push commit)
+
+2. Buat file baru dari terminal
+    - touch <nama_file.format_file>
+
+3. Command berguna dalam terminal
+    - pwd (nunjukkin directory sekarang)
+    - ls (list item dalam directory)
+        > ls -a (Hidden file)
+    - cd <...>(untuk masuk ke directory tertentu)
+        > cd .. (naik 1 directory)
+    - mkdir <...> (buat folder directory baru)
+    - rm <...> (hapus file)
+        > rm -r <...> (hapus directory)
+    - cp <file> <directory> (copy file ke directory mana)
+       > cp <file> <newfile> (copy file jadi file baru yang isinya sama) 
