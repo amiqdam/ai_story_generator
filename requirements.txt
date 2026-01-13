@@ -1,0 +1,4 @@
+# Requirements for the AI Story Generator project
+
+openai
+python-dotenv
